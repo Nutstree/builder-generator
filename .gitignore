@@ -1,0 +1,8 @@
+# hidden folders
+.*
+
+# compilation folders
+target
+
+# IntelliJ IDEA
+*.iml
